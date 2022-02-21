@@ -150,8 +150,8 @@ body{
     }
 }
 @media screen and (max-width:1000px){
-    .content{
-        margin-left: 5%;
+    .writing{
+        padding-right:10%;
     }
     .top{
         height: 12%;
