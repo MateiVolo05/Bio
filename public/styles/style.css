@@ -150,6 +150,9 @@ body{
     }
 }
 @media screen and (max-width:1000px){
+    .content{
+        margin-left: 5%;
+    }
     .top{
         height: 12%;
     }
